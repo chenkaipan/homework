@@ -1,0 +1,7 @@
+{
+    "port": "8888",
+    "db_type": "sqlite",
+    "sqlite_path": "./db/homework04.db",
+    "mysql_dsn": "root:root@tcp(127.0.0.1:3306)/homework04?charset=utf8mb4&parseTime=True&loc=Local",
+    "jwt_secret": "2026jwt_secret"
+  }
